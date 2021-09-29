@@ -12,3 +12,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisseg5&hide=contribs,prs)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisseg5)](https://github.com/chrisseg5/github-readme-stats)
+
+
