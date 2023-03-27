@@ -5,7 +5,7 @@
 
 
 - 🎓 College student
-- 🌱 Learning front end 
+- 🌱 Learning web dev 
 
 
 
